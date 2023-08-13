@@ -34,4 +34,4 @@ If you encounter issues:
 NameError: 'log' not defined: This error means the logging function or module has not been imported or defined in your current code. Make sure to check the order of script execution and whether you've properly integrated the logging module.
 For further assistance or to report other issues, please raise an issue on this GitHub repository or contact the exercise administrator.
 Feedback
-Your feedback is invaluable to us! If you think there's a section we can improve, have suggestions, or just want to let us know how it went, please you feel free to write you input on my github.
+Your feedback is invaluable to us! If you think there's a section we can improve, have suggestions, or just want to let us know how it went, please you feel free to write your input on my github.
